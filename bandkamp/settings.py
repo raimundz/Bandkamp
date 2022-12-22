@@ -47,8 +47,7 @@ DJANGO_APPS = [
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
-    "django.contrib.staticfiles",
-    "project"
+    "django.contrib.staticfiles", 
 ]
 
 THIRD_PARTY_APPS = [
